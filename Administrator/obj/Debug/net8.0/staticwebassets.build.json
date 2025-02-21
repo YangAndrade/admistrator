@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RwHng1xyOiQhc47ZYzhGXBSx0h6mLEyCg+M7FFX/GOk=",
+  "Source": "Administrator.Api",
+  "BasePath": "_content/Administrator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
