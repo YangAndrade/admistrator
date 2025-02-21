@@ -1,0 +1,15 @@
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\bin\Debug\net8.0\Administrator.Application.deps.json
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\bin\Debug\net8.0\Administrator.Application.dll
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\bin\Debug\net8.0\Administrator.Application.pdb
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\bin\Debug\net8.0\Admistrator.Communication.dll
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\bin\Debug\net8.0\Admistrator.Communication.pdb
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administrator.Application.csproj.AssemblyReference.cache
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administrator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administrator.Application.AssemblyInfoInputs.cache
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administrator.Application.AssemblyInfo.cs
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administrator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administ.368F3904.Up2Date
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administrator.Application.dll
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\refint\Administrator.Application.dll
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\Administrator.Application.pdb
+C:\Users\Yang\source\repos\Administrator\Administrator.Application\obj\Debug\net8.0\ref\Administrator.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\bin\Debug\net8.0\Admistrator.Communication.deps.json
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\bin\Debug\net8.0\Admistrator.Communication.dll
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\bin\Debug\net8.0\Admistrator.Communication.pdb
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\Admistrator.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\Admistrator.Communication.AssemblyInfoInputs.cache
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\Admistrator.Communication.AssemblyInfo.cs
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\Admistrator.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\Admistrator.Communication.dll
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\refint\Admistrator.Communication.dll
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\Admistrator.Communication.pdb
+C:\Users\Yang\source\repos\Administrator\Admistrator.Communication\obj\Debug\net8.0\ref\Admistrator.Communication.dll
